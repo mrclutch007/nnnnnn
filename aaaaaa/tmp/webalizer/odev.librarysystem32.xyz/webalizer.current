@@ -1,0 +1,355 @@
+# Webalizer V2.23-05 Incremental Data - 01/05/2020 05:08:10
+2020 1 5 5 8 10
+2473 1871 17 46 21 13 19244252 369 39 0
+10 93 418 2 5
+0 0 0 0 0 0
+112 72 1378390 3 20 4
+0 0 0 0 0 0
+1663 1315 11395311 13 263 26
+698 484 6470551 10 86 9
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+11 9 19818 2
+0 0 0 0
+0 0 0 0
+176 119 1447442 45
+465 308 4264917 48
+345 242 3037382 64
+172 121 1444165 33
+226 201 583117 35
+117 100 1582029 12
+85 72 872062 20
+95 63 1471853 19
+28 25 836765 7
+89 73 292753 13
+50 35 187118 8
+55 46 100132 11
+152 119 271280 9
+313 262 1901786 30
+10 9 20850 3
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+28 24 467653 2
+56 43 443130 8
+0
+0
+0
+1871
+0
+0
+0
+0
+0
+3
+0
+0
+73
+0
+190
+0
+0
+0
+0
+0
+0
+179
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+157
+0
+0
+0
+0
+0
+# -urls- 
+/images/sadece.jpg
+0 17 2 434805 0 0
+/kitapekle.php
+0 43 0 104472 0 0
+/images/yaratici.jpg
+0 21 20 264621 0 0
+/sozluk.php
+0 95 0 202250 0 0
+/images/kutuphane2_16_9_1522063639.jpg
+0 22 0 1915505 0 0
+/login.php
+0 92 0 205075 0 0
+/bagis.php
+0 14 0 30654 0 0
+/kullaniciekle.php
+0 11 0 9328 0 0
+/sepet.php
+0 143 0 326153 0 0
+/iletisim.php
+0 66 0 172738 0 0
+/kitap1.php
+0 25 0 54868 0 0
+/images/havari.jpg
+0 21 47 98584 0 0
+/kitap.php
+0 179 0 379669 0 0
+/js/bootstrap.min.js
+0 23 0 355051 0 0
+/giris.php
+0 6 0 1965 0 0
+/js/jquery-3.4.1.min.js
+0 23 0 705571 0 0
+/ekitap.php
+0 81 0 165361 0 0
+/kayit.php
+0 8 0 17999 0 0
+/comments.inc.php
+0 4 0 0 0 0
+/css/bootstrap.min.css.map
+0 1 23 102689 0 0
+/images/logo.png
+0 71 0 2115993 0 0
+/images/kutuphane-1.jpg
+0 22 0 5096133 0 0
+/images/preview_bedales_library__1920___1080_-900-x-600-900x580.jpg
+0 18 0 2500564 0 0
+/signup.php
+0 35 0 74674 0 0
+/images/1984.jpg
+0 15 21 226764 0 0
+/ajax/login.php
+0 5 0 84 0 0
+/images/ucurtma.jpg
+0 6 0 58370 0 0
+/js/main.js
+0 48 0 28783 0 0
+/duyuru.php
+0 77 0 171426 0 0
+/css/bootstrap.min.css
+0 33 0 766854 0 0
+/lib/sepet_db.php
+0 79 0 2560 0 0
+/images/shutterstock_11281105.jpg
+0 3 0 29064 0 0
+/js/bootstrap.min.js.map
+0 2 0 93400 0 0
+/images/donusum.jpg
+0 40 0 427140 0 0
+/success.php
+0 16 0 30709 0 0
+/yenigelen.php
+0 26 0 51628 0 0
+/
+0 310 0 952171 37 24
+/images/tutunamayanlar.jpg
+0 8 0 44770 0 0
+/css/main.css
+0 80 0 128480 0 0
+/comments.php
+0 1 0 0 0 0
+/images/kucukprens.jpg
+0 6 0 32915 0 0
+/images/satranc.jpg
+0 9 0 70576 0 0
+/index1.php
+0 122 0 248856 0 0
+/images/kurkmantolu.jpg
+0 43 0 158562 0 0
+/profil.php
+0 50 0 113522 0 0
+/images/korku.jpg
+0 44 0 226200 0 0
+# End Of Table - urls
+# -sites- (monthly)
+104.130.124.197
+0 5 5 5407 1 1578122199
+/
+95.10.48.156
+0 21 20 783753 1 1578200869
+/
+46.10.238.204
+0 5 3 86 1 1577940141
+/
+66.249.81.27
+0 24 21 407418 2 1578153934
+/
+195.33.240.222
+0 55 47 176882 1 1578147227
+/
+66.249.81.29
+0 24 22 262779 1 1578156881
+/
+77.71.52.85
+0 65 55 1705289 3 1578198785
+/
+217.182.175.162
+0 1 1 0 0 0
+-
+23.253.119.38
+0 1 1 2300 0 0
+-
+88.248.48.88
+0 60 54 1179567 3 1578138346
+/
+88.237.133.217
+0 404 284 4005454 6 1578200357
+/
+176.40.255.142
+0 8 7 550825 1 1578126793
+/
+95.10.57.220
+0 51 44 696029 1 1578195222
+/
+78.161.91.64
+0 278 215 1687928 4 1578200776
+/
+66.249.81.31
+0 17 16 644958 1 1578154550
+/
+31.223.54.36
+0 1315 988 5602220 10 1578199975
+/
+178.244.6.34
+0 139 91 1533357 3 1578154109
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+104.130.124.197
+0 3 3 2217 0 0
+-
+95.10.48.156
+0 21 20 783753 1 1578200869
+/
+66.249.81.27
+0 2 1 2678 0 0
+-
+66.249.81.29
+0 1 1 2678 0 0
+-
+77.71.52.85
+0 19 15 244230 1 1578198785
+/
+23.253.119.38
+0 1 1 2300 0 0
+-
+88.237.133.217
+0 272 179 2843185 3 1578200357
+/
+95.10.57.220
+0 51 44 696029 1 1578195222
+/
+78.161.91.64
+0 146 113 1304616 2 1578200776
+/
+31.223.54.36
+0 182 107 588865 1 1578199975
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://odev.librarysystem32.xyz/kullaniciekle.php
+0 1
+http://odev.librarysystem32.xyz/kitap.php
+0 406
+http://odev.librarysystem32.xyz/yenigelen.php
+0 125
+http://odev.librarysystem32.xyz/index1.php
+0 157
+http://odev.librarysystem32.xyz/kayit.php
+0 7
+http://odev.librarysystem32.xyz/bagis.php
+0 17
+http://odev.librarysystem32.xyz/iletisim.php
+0 72
+http://odev.librarysystem32.xyz/sozluk.php
+0 116
+http://odev.librarysystem32.xyz/index.php
+0 211
+http://odev.librarysystem32.xyz/kitap1.php
+0 25
+http://odev.librarysystem32.xyz/login.php
+0 92
+http://odev.librarysystem32.xyz/
+0 265
+- (Direct Request)
+0 238
+http://odev.librarysystem32.xyz/profil.php
+0 69
+http://odev.librarysystem32.xyz/sepet.php
+0 246
+http://odev.librarysystem32.xyz/kitapekle.php
+0 59
+http://odev.librarysystem32.xyz/giris.php
+0 3
+http://odev.librarysystem32.xyz/signup.php
+0 49
+http://odev.librarysystem32.xyz/success.php
+0 13
+http://odev.librarysystem32.xyz/duyuru.php
+0 99
+http://odev.librarysystem32.xyz/ekitap.php
+0 203
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+0 60
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 OPR/65.0.3467.7
+0 5
+WhatsApp/0.3.9309 N
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+0 1402
+Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-A305F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.
+0 12
+Mozilla/5.0 (Linux; Android 9; SM-A305F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36
+0 67
+Valve/Steam HTTP Client 1.0
+0 6
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 OPR/64.0.
+0 51
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+0 834
+Mozilla/5.0 (Linux; Android 9; Mi 9T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36
+0 18
+Mozilla/5.0 (Linux; Android 9; Mi A2 Lite) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36
+0 8
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

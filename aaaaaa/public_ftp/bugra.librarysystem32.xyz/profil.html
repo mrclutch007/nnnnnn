@@ -1,0 +1,262 @@
+ 
+<!doctype html>
+<html lang="tr">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+ 
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/main.css">
+    <script src="https://kit.fontawesome.com/227e4b609c.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+ 
+    <title>LibrarySystem32.com</title>
+  </head>
+  <body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#"><img src="images/logo.png" alt="LibrarySystem32"/></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="index.html">Anasayfa <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="duyuru.html">Duyuru</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Admin
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="kitapekle.html">Kitap Ekle-Sil</a>
+          <a class="dropdown-item" href="kullaniciekle.html">Kullanıcı Ekle-Sil</a>
+        </div>
+      </li>
+              <li class="nav-item">
+        <a class="nav-link" href="sozluk.html">Sözlükler</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Kitaplar
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="kitap.html">Kitap</a>
+          <a class="dropdown-item" href="sepet.html">Ödünç</a>
+          <a class="dropdown-item" href="bagis.html">Bağış</a>
+          <a class="dropdown-item" href="yenigelen.html">Yeni Gelen Yayımlar</a>
+          <a class="dropdown-item" href="ekitap.html">E-Kitap</a>
+        </div>
+      </li>
+            <li class="nav-item">
+        <a class="nav-link" href="iletisim.html">İletişim ve İstek Formu</a>
+      </li>  
+                  <li class="nav-item">
+        <a class="nav-link" href="profil.html">Profil</a>
+      </li> 
+      <li class="nav-item">
+        <a class="nav-link" href="kayit.html">KAYIT OL</a>
+      </li>
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Ara" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Ara</button>
+    </form>
+  </div>
+        </nav>
+    
+<hr>
+<div class="container">
+    <div class="row">
+  		<div class="col-sm-10"><h1>Kullanıcı Adı</h1></div>
+    </div>
+    <div class="row">
+  		<div class="col-sm-3"><!--left col-->
+              
+
+      <div class="text-center">
+        <img src="http://ssl.gstatic.com/accounts/ui/avatar_2x.png" class="avatar img-circle img-thumbnail" alt="avatar">
+        <h6>Fotoğraf yükleyin...</h6>
+        <input type="file" class="text-center center-block file-upload">
+      </div></hr><br>
+
+               
+        </div><!--/col-3-->
+    	<div class="col-sm-9">
+            <ul class="nav nav-tabs">
+                <li class="active"><a data-toggle="tab" href="#home">Bilgilerim</a></li>
+                <li><a data-toggle="tab" href="#sureuzat">Süre Uzat</a></li>
+              </ul>
+
+              
+          <div class="tab-content">
+            <div class="tab-pane active" id="home">
+                <hr>
+                  <form class="form" action="##" method="post" id="registrationForm">
+                      <div class="form-group">
+                          
+                          <div class="col-xs-6">
+                              <label for="first_name"><h4>Ad</h4></label>
+                              <input type="text" class="form-control" name="first_name" id="first_name" placeholder="ad" title="adınızı giriniz.">
+                          </div>
+                      </div>
+                      <div class="form-group">
+                          
+                          <div class="col-xs-6">
+                            <label for="last_name"><h4>Soyad</h4></label>
+                              <input type="text" class="form-control" name="last_name" id="last_name" placeholder="soyad" title="soyadınızı giriniz.">
+                          </div>
+                      </div>
+          
+                      <div class="form-group">
+                          
+                          <div class="col-xs-6">
+                              <label for="phone"><h4>Telefon</h4></label>
+                              <input type="text" class="form-control" name="phone" id="phone" placeholder="telefon numaranızı giriniz." title="telefon numaranızı giriniz.">
+                          </div>
+                      </div>
+          
+                      <div class="form-group">
+                          <div class="col-xs-6">
+                             <label for="mobile"><h4>Doğum Tarihi</h4></label>
+                              <input type="date" class="form-control" name="bday" id="bday" placeholder="dogumtarihi" title="dogum tarihinizi girin.">
+                          </div>
+                      </div>
+                      <div class="form-group">
+                          
+                          <div class="col-xs-6">
+                              <label for="email"><h4>Email</h4></label>
+                              <input type="email" class="form-control" name="email" id="email" placeholder="...@email.com" title="email adresinizi giriniz.">
+                          </div>
+                      </div>
+                      <div class="form-group">
+                          
+                          <div class="col-xs-6">
+                              <label for="email"><h4>Adres</h4></label>
+                              <input type="email" class="form-control" id="location" placeholder="adres" title="adresinizi giriniz.">
+                          </div>
+                      </div>
+                      <div class="form-group">
+                          
+                          <div class="col-xs-6">
+                              <label for="password"><h4>Şifre</h4></label>
+                              <input type="password" class="form-control" name="password" id="password" placeholder="şifre" title="şifrenizi giriniz.">
+                          </div>
+                      </div>
+                      <div class="form-group">
+                          
+                          <div class="col-xs-6">
+                            <label for="password2"><h4>Şifrenizi Doğrulayın</h4></label>
+                              <input type="password" class="form-control" name="password2" id="password2" placeholder="şifre" title="şifrenizi giriniz.">
+                          </div>
+                      </div>
+                      <div class="form-group">
+                           <div class="col-xs-12">
+                                <br>
+                              	<button class="btn btn-lg btn-success" type="submit"><i class="glyphicon glyphicon-ok-sign"></i> Kaydet</button>
+                               	<button class="btn btn-lg" type="reset"><i class="glyphicon glyphicon-repeat"></i> Yenile</button>
+                            </div>
+                      </div>
+              	</form>
+              
+              <hr>
+              
+             </div><!--/tab-pane-->
+             <div class="tab-pane" id="sureuzat">
+               
+               <h2></h2>
+               
+               <hr>
+                  <form class="form" action="##" method="post" id="registrationForm">
+                      <div class="form-group">
+                          
+                          <div class="col-xs-6">
+                                <div class="form-group">
+                                <label for="exampleFormControlSelect1">Aldığınız kitabı seçin</label>
+                                <select class="form-control" id="exampleFormControlSelect1">
+                                <option>kitap1</option>
+                                <option>kitap2</option>
+                                <option>kitap3</option>
+                                <option>kitap4</option>
+                                <option>kitap5</option>
+                                </select>
+                            </div>
+                      </div>
+                      <div class="form-group">
+                          
+                          <div class="col-xs-6">
+                              <label for="phone"><h4>Teslim aldığınız tarih</h4></label>
+                              <input type="date" class="form-control" name="phone" id="phone" placeholder="enter phone" title="teslim aldığınız tarihi giriniz.">
+                          </div>
+                      </div>
+          
+                      <div class="form-group">
+                          <div class="col-xs-6">
+                             <label for="mobile"><h4>Teslim edeceğiniz tarih</h4></label>
+                              <input type="date" class="form-control" name="mobile" id="mobile" placeholder="enter mobile number" title="teslim edeceğiniz tarihi giriniz.">
+                          </div>
+                      </div>
+                      <div class="form-group">
+                          
+                      <div class="form-group">
+                           <div class="col-xs-12">
+                                <br>
+                              	<button class="btn btn-lg btn-success" type="submit"><i class="glyphicon glyphicon-ok-sign"></i> Süreyi Uzat</button>
+                            </div>
+                      </div>
+              	</form>
+               
+             </div><!--/tab-pane--> 
+            </div><!--/tab-pane-->
+          </div><!--/tab-content-->
+
+        </div><!--/col-9-->
+    </div><!--/row-->
+        <footer class="section footer-classic context-dark bg-image" style="background: #2d3246;">
+        <div class="container">
+          <div class="row row-30">
+            <div class="col-md-4 col-xl-5">
+              <div class="pr-xl-4"><a class="brand" href="index.html"><img class="brand-logo-light" src="images/agency/logo-inverse-140x37.png" alt="" width="140" height="37" srcset="images/agency/logo-retina-inverse-280x74.png 2x"></a>
+                <p>Aydınlık bir geleğin varlığı kitap okumaktan geçer.</p>
+                <!-- Rights-->
+                <p class="rights"><span>©  </span><span class="copyright-year">2019</span><span> </span><span>LibrarySystem32</span></p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <h5>İletişim</h5>
+              <dl class="contact-list">
+                <dt>Adres:</dt>
+                <dd>Bilgi Merkezi 32260 Doğu Yerleşkesi Isparta / Türkiye</dd>
+              </dl>
+              <dl class="contact-list">
+                <dt>e-mail:</dt>
+                <dd><a href="mailto:#">kutuphane@sdu.edu.tr</a></dd>
+              </dl>
+            </div>
+            <div class="col-md-4 col-xl-3">
+              <h5>Linkler</h5>
+              <ul class="nav-list">
+                <li><a href="#">Anasayfa</a></li>
+                <li><a href="#">Hakkımızda</a></li>
+                <li><a href="#">İletişim</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="row no-gutters social-container">
+          <div class="col"><a class="social-inner" href="#"><span><i class="fab fa-facebook"></i> Facebook</span></a></div>
+          <div class="col"><a class="social-inner" href="#"><span><i class="fab fa-instagram"></i> instagram</span></a></div>
+          <div class="col"><a class="social-inner" href="#"><span><i class="fab fa-twitter"></i> twitter</span></a></div>
+          <div class="col"><a class="social-inner" href="#"><span><i class="fab fa-google"></i> google</span></a></div>
+        </div>
+      </footer>
+  </body>
+</html>
+ 

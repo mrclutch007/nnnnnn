@@ -1,0 +1,15 @@
+[31-Dec-2019 09:21:41 UTC] PHP Notice:  Undefined variable: conn in /home/b746n3s1eknf/public_html/bugra.librarysystem32.xyz/duyuru.php on line 6
+[31-Dec-2019 09:21:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/bugra.librarysystem32.xyz/duyuru.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/bugra.librarysystem32.xyz/duyuru.php on line 6
+[31-Dec-2019 09:32:34 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/b746n3s1eknf/public_html/bugra.librarysystem32.xyz/include/baglan.php on line 14
+[31-Dec-2019 09:32:35 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/b746n3s1eknf/public_html/bugra.librarysystem32.xyz/include/baglan.php on line 14
+[31-Dec-2019 09:32:37 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/b746n3s1eknf/public_html/bugra.librarysystem32.xyz/include/baglan.php on line 14
+[31-Dec-2019 09:32:38 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/b746n3s1eknf/public_html/bugra.librarysystem32.xyz/include/baglan.php on line 14
+[31-Dec-2019 09:32:40 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/b746n3s1eknf/public_html/bugra.librarysystem32.xyz/include/baglan.php on line 14
+[31-Dec-2019 09:35:02 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/b746n3s1eknf/public_html/bugra.librarysystem32.xyz/include/baglan.php on line 14
+[31-Dec-2019 09:36:18 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/b746n3s1eknf/public_html/bugra.librarysystem32.xyz/include/baglan.php on line 14
+[31-Dec-2019 09:36:18 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/b746n3s1eknf/public_html/bugra.librarysystem32.xyz/include/baglan.php on line 14
+[31-Dec-2019 09:36:20 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/b746n3s1eknf/public_html/bugra.librarysystem32.xyz/include/baglan.php on line 14
+[31-Dec-2019 09:36:21 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/b746n3s1eknf/public_html/bugra.librarysystem32.xyz/include/baglan.php on line 14

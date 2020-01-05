@@ -1,0 +1,325 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202001 will be lost/reset.
+# Last config file used to build this data file was /home/b746n3s1eknf/tmp/awstats/awstats.odev.librarysystem32.xyz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2025                
+POS_TIME 2711                
+POS_VISITOR 7624                
+POS_DAY 8606                
+POS_DOMAIN 3385                
+POS_LOGIN 3661                
+POS_ROBOT 3816                
+POS_WORMS 3988                
+POS_EMAILSENDER 4119                
+POS_EMAILRECEIVER 4262                
+POS_SESSION 8746                
+POS_SIDER 8939                
+POS_FILETYPES 4397                
+POS_DOWNLOADS 4596                
+POS_OS 4644                
+POS_BROWSER 4790                
+POS_SCREENSIZE 5035                
+POS_UNKNOWNREFERER 5109                
+POS_UNKNOWNREFERERBROWSER 5274                
+POS_ORIGIN 5434                
+POS_SEREFERRALS 5574                
+POS_PAGEREFS 5718                
+POS_SEARCHWORDS 5866                
+POS_KEYWORDS 6018                
+POS_MISC 2375                
+POS_ERRORS 6077                
+POS_CLUSTER 3517                
+POS_SIDER_404 6202                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200105050810 2275 523604 11827091310301
+FirstTime 20200102044148
+LastTime 20200105050810
+LastUpdate 20200105050901 2275 0 2275 0 0
+TotalVisits 33                  
+TotalUnique 17                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 17                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 9 19818 0 2 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 96 126 1447307 43 50 135
+4 173 382 4186227 52 83 78690
+5 182 284 3030726 35 61 6656
+6 103 135 1267996 32 37 176169
+7 194 216 580513 6 10 2604
+8 77 109 1577129 4 8 4900
+9 61 75 865614 9 10 6448
+10 49 64 1465098 29 31 6755
+11 18 25 836765 1 3 0
+12 61 76 292521 8 13 232
+13 29 39 187118 7 11 0
+14 43 48 100045 5 7 87
+15 115 122 203549 28 30 67731
+16 225 273 1901226 37 40 560
+17 8 9 20850 1 1 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 12 24 467653 0 4 0
+23 37 43 442990 5 13 140
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+tr 1419 1933 15865147
+us 45 65 1322806
+bg 26 60 1705192
+gb 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 2 128242 20200105045758 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 113 895334 0 0
+html 142 418661 0 0
+php 1346 2897501 0 0
+js 94 1089405 0 0
+jpg 292 11408404 0 0
+map 3 196089 0 0
+png 69 1987751 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+linux 3 3
+linuxandroid 97 57
+Unknown 8 8
+win10 1893 1399
+win8.1 57 23
+macosx 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+opera64.0.3417.150 44 35
+chrome79.0.3945.88 1198 982
+chrome79.0.3945.93 86 54
+opera65.0.3467.78 4 1
+firefox71.0 704 404
+chrome71.0.3578.99 11 3
+chrome70.0.3538.67 1 1
+firefox45.0 3 3
+Unknown 8 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Valve/Steam_HTTP_Client_1.0 20200105050646
+WhatsApp/0.3.9309_N 20200105045758
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Valve/Steam_HTTP_Client_1.0 20200105050646
+WhatsApp/0.3.9309_N 20200105045758
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 175 175
+From1 0 0
+From2 0 0
+From3 0 0
+From4 1316 1884
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 119 0
+500 157 45520
+206 3 176169
+302 73 1176
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 21
+/.$loginUrl. 3 http://odev.librarysystem32.xyz/login.php
+/images/asdasd 1 http://odev.librarysystem32.xyz/ekitap.php
+/images/cal%C4%B1kusu.jpg 41 http://odev.librarysystem32.xyz/yenigelen.php
+/mail.php 2 http://odev.librarysystem32.xyz/kitapekle.php
+/ 6 -
+/images/yarat 1 http://odev.librarysystem32.xyz/ekitap.php
+/sozluk.html 1 http://odev.librarysystem32.xyz/index1.php
+/images/1984.jpg 3 http://odev.librarysystem32.xyz/ekitap.php
+/images/ 41 http://odev.librarysystem32.xyz/kitap1.php
+/duyuru.html 2 http://odev.librarysystem32.xyz/index1.php
+/s 1 -
+/include/success.php 1 -
+/images/sadece.jpg 2 http://odev.librarysystem32.xyz/ekitap.php
+/index.php 1 http://odev.librarysystem32.xyz/duyuru.php
+/duyuru.php 1 http://odev.librarysystem32.xyz/
+/includes/logout.inc.php 2 http://odev.librarysystem32.xyz/success.php
+/index.html 4 http://odev.librarysystem32.xyz/index1.php
+/iletisim.html 1 http://odev.librarysystem32.xyz/index1.php
+/images/havari.jpg 1 http://odev.librarysystem32.xyz/ekitap.php
+/index1.php 3 http://odev.librarysystem32.xyz/profil.php
+/sepet.php 1 http://odev.librarysystem32.xyz/duyuru.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 17
+31.223.54.36 910 1072 5395599 20200105045832 20200105032201 /yenigelen.php
+78.161.91.64 172 239 1623672 20200105050745 20200105033323 /login.php
+88.237.133.217 138 341 3926863 20200105050354 20200105033333 /lib/sepet_db.php
+178.244.6.34 67 107 1531957 20200104160910
+88.248.48.88 47 55 1179567 20200104114548
+195.33.240.222 42 48 176882 20200104141808
+95.10.57.220 35 44 696029 20200105033723
+77.71.52.85 23 57 1705106 20200105050145 20200105043238 /kullaniciekle.php
+66.249.81.27 17 21 407390 20200105031528
+66.249.81.29 14 22 262751 20200105031020
+66.249.81.31 8 16 644958 20200104165426
+95.10.48.156 7 20 783753 20200105050810 20200105050645 /yenigelen.php
+104.130.124.197 5 5 5407 20200105050646 20200105050639 /yenigelen.php
+46.10.238.204 3 3 86 20200102044221
+217.182.175.162 1 1 0 20200104151306
+23.253.119.38 1 1 2300 20200105050639 20200105050639 /ekitap.php
+176.40.255.142 1 7 550825 20200104083313
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20200102 53 72 1365187 3
+20200104 1142 1415 11136049 19
+20200105 296 572 6391909 11
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 6
+30s-2mn 2
+30mn-1h 7
+2mn-5mn 3
+5mn-15mn 1
+0s-30s 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 26
+/kitap.php 179 379669 1 2
+/index.php 168 533510 0 2
+/sepet.php 143 326153 0 2
+/ 142 418661 22 7
+/index1.php 122 248856 2 3
+/sozluk.php 95 202250 1 3
+/login.php 92 205075 0 1
+/ekitap.php 81 165361 3 0
+/lib/sepet_db.php 79 2560 0 0
+/duyuru.php 77 171426 1 0
+/iletisim.php 66 172738 2 3
+/profil.php 50 113522 0 0
+/kitapekle.php 43 104472 0 0
+/signup.php 35 74674 0 1
+/yenigelen.php 26 51628 0 0
+/kitap1.php 25 54868 1 1
+/success.php 16 30709 0 1
+/bagis.php 14 30654 0 0
+/kullaniciekle.php 11 9328 0 0
+/kayit.php 8 17999 0 0
+/giris.php 6 1965 0 0
+/ajax/login.php 5 84 0 0
+/comments.inc.php 4 0 0 0
+/js/bootstrap.min.js.map 2 93400 0 0
+/css/bootstrap.min.css.map 1 102689 0 0
+/comments.php 1 0 0 0
+END_SIDER

@@ -1,0 +1,200 @@
+[02-Jan-2020 16:18:43 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 16:18:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 16:22:12 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/kitap.php on line 16
+[02-Jan-2020 16:22:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/kitap.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/kitap.php on line 16
+[02-Jan-2020 16:22:22 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/profil.php on line 20
+[02-Jan-2020 16:22:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/b746n3s1eknf/public_html/odev/profil.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/profil.php on line 20
+[02-Jan-2020 16:22:48 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/profil.php on line 20
+[02-Jan-2020 16:22:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/b746n3s1eknf/public_html/odev/profil.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/profil.php on line 20
+[02-Jan-2020 16:22:52 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 16:22:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 16:59:34 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/profil.php on line 20
+[02-Jan-2020 16:59:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/b746n3s1eknf/public_html/odev/profil.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/profil.php on line 20
+[02-Jan-2020 16:59:36 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 16:59:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 16:59:38 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/profil.php on line 20
+[02-Jan-2020 16:59:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/b746n3s1eknf/public_html/odev/profil.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/profil.php on line 20
+[02-Jan-2020 17:05:47 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:05:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:06:01 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:06:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:06:35 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:06:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:06:36 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:06:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:06:37 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:06:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:11:17 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:11:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:11:17 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:11:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:11:18 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:11:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:11:21 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:11:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:11:30 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:11:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:11:31 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:11:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:11:31 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:11:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:12:05 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:12:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:12:06 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:12:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:12:06 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:12:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:12:06 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:12:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:12:07 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:12:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:12:07 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:12:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:12:38 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:12:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:13:39 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:13:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:13:40 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:13:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:13:41 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:13:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:13:41 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:13:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:13:42 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:13:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:13:44 UTC] PHP Notice:  Undefined variable: db in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:13:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b746n3s1eknf/public_html/odev/sozluk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/sozluk.php on line 16
+[02-Jan-2020 17:23:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/b746n3s1eknf/public_html/odev/kitap.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/kitap.php on line 16
+[04-Jan-2020 11:23:49 UTC] PHP Notice:  Undefined index: uye_id in /home/b746n3s1eknf/public_html/odev/profil.php on line 21
+[04-Jan-2020 11:23:49 UTC] PHP Notice:  Trying to get property 'uye_id' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 23
+[04-Jan-2020 11:23:49 UTC] PHP Notice:  Trying to get property 'uye_kadi' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 75
+[04-Jan-2020 11:23:49 UTC] PHP Notice:  Trying to get property 'uye_ad' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 79
+[04-Jan-2020 11:23:49 UTC] PHP Notice:  Trying to get property 'uye_soyad' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 80
+[04-Jan-2020 11:23:49 UTC] PHP Notice:  Trying to get property 'uye_email' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 81
+[04-Jan-2020 11:23:49 UTC] PHP Notice:  Trying to get property 'uye_tel' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 82
+[04-Jan-2020 11:23:49 UTC] PHP Notice:  Trying to get property 'uye_adres' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 83
+[04-Jan-2020 11:23:49 UTC] PHP Notice:  Trying to get property 'uye_resim' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 84
+[04-Jan-2020 11:23:51 UTC] PHP Notice:  Undefined index: uye_id in /home/b746n3s1eknf/public_html/odev/profil.php on line 21
+[04-Jan-2020 11:23:51 UTC] PHP Notice:  Trying to get property 'uye_id' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 23
+[04-Jan-2020 11:23:51 UTC] PHP Notice:  Trying to get property 'uye_kadi' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 75
+[04-Jan-2020 11:23:51 UTC] PHP Notice:  Trying to get property 'uye_ad' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 79
+[04-Jan-2020 11:23:51 UTC] PHP Notice:  Trying to get property 'uye_soyad' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 80
+[04-Jan-2020 11:23:51 UTC] PHP Notice:  Trying to get property 'uye_email' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 81
+[04-Jan-2020 11:23:51 UTC] PHP Notice:  Trying to get property 'uye_tel' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 82
+[04-Jan-2020 11:23:51 UTC] PHP Notice:  Trying to get property 'uye_adres' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 83
+[04-Jan-2020 11:23:51 UTC] PHP Notice:  Trying to get property 'uye_resim' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 84
+[04-Jan-2020 11:23:55 UTC] PHP Notice:  Undefined index: uye_id in /home/b746n3s1eknf/public_html/odev/profil.php on line 21
+[04-Jan-2020 11:23:55 UTC] PHP Notice:  Trying to get property 'uye_id' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 23
+[04-Jan-2020 11:23:55 UTC] PHP Notice:  Trying to get property 'uye_kadi' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 75
+[04-Jan-2020 11:23:55 UTC] PHP Notice:  Trying to get property 'uye_ad' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 79
+[04-Jan-2020 11:23:55 UTC] PHP Notice:  Trying to get property 'uye_soyad' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 80
+[04-Jan-2020 11:23:55 UTC] PHP Notice:  Trying to get property 'uye_email' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 81
+[04-Jan-2020 11:23:55 UTC] PHP Notice:  Trying to get property 'uye_tel' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 82
+[04-Jan-2020 11:23:55 UTC] PHP Notice:  Trying to get property 'uye_adres' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 83
+[04-Jan-2020 11:23:55 UTC] PHP Notice:  Trying to get property 'uye_resim' of non-object in /home/b746n3s1eknf/public_html/odev/profil.php on line 84
+[04-Jan-2020 11:24:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/b746n3s1eknf/public_html/odev/kitap.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/b746n3s1eknf/public_html/odev/kitap.php on line 16
